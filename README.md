@@ -37,9 +37,8 @@ def main():
 
 
 
-question2 ::User input and output:
-Example Usage:
-yaml
+question2 :
+
 
 
 
