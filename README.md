@@ -7,6 +7,9 @@
 
 
 question1 :# Function to calculate the final price after applying discount
+
+
+
 def calculate_discount(price, discount_percent):
     # Check if discount is 20% or higher
     if discount_percent >= 20:
@@ -37,14 +40,17 @@ def main():
 question2 ::User input and output:
 Example Usage:
 yaml
-Copy code
+
+
+
 Enter the original price of the item: 100
 Enter the discount percentage: 25
 The final price after applying the discount is: 75.00
+
+
 If the discount is less than 20%, it will print the original price:
 
-yaml
-Copy code
+
 Enter the original price of the item: 100
 Enter the discount percentage: 10
 No discount applied. The price remains: 100.00
